@@ -6,3 +6,6 @@ Project idea – The idea behind this project is to analyse and generate Vehicle
   - Total Items Sold (By Product Line), 
   - Quarterly Revenue (By Product Line), and 
   - Overall Sales (By Product Line)
+
+
+Innocent Motors Cars price Analysis
